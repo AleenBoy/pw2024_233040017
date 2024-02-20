@@ -1,5 +1,4 @@
 <?php
-
 $npm_last_two_digits = 17;
 $result = $npm_last_two_digits * 5;
 echo "Aku adalah angka $npm_last_two_digits<br>";
@@ -12,6 +11,5 @@ $result += 75;
 echo "Jika aku ditambah 75, maka aku sekarang menjadi $result<br>";
 
 $result -= 20;
-echo "Jika aku dikurang 20, maka aku sekarang menjadi $result<br>";\
-
+echo "Jika aku dikurang 20, maka aku sekarang menjadi $result<br>";
 ?>
